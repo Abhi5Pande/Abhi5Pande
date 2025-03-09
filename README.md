@@ -23,7 +23,8 @@ I am a **Backend Developer** from India, specializing in **scalable, high-perfor
 - 💡 **Passionate About**: Building efficient backend architectures, solving complex system problems, and optimizing workflows  
 
 📫 **Reach me at**: [abhi.pachpande@gmail.com](mailto:abhi.pachpande@gmail.com)  
-🌐 **Portfolio**: [abhijitpachpande.com](https://abhijitpachpande.com)  
+🌐 **Portfolio**: [abhijitpachpande.co.in](https://abhijitpachpande.co.in)  
+✍️ **Medium**: [https://medium.com/@abhijitpachpande](https://medium.com/@abhijitpachpande)
 
 ---
 
